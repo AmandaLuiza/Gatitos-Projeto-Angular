@@ -29,5 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 http://localhost:4200/home
 
-![image](https://user-images.githubusercontent.com/77518236/170105453-5ab9b5b2-fd63-407e-87e6-06d2804111f5.png)
+![image](https://user-images.githubusercontent.com/77518236/170552013-bd52076f-79ab-4e87-89ef-26cf20ec951a.png)
+
 
